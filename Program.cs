@@ -17,7 +17,7 @@ namespace Sonar
                     int measure2 = Int32.Parse(lines[i + 1]) + Int32.Parse(lines[i + 2]) + Int32.Parse(lines[i + 3]);
                     if (measure1 < measure2)
                     {
-                        isGreater = isGreater + 1;
+                        isGreater++;
                     }
 
                 }

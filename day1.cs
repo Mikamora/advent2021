@@ -1,3 +1,5 @@
+using System;
+
 namespace Sonar
 {
     public class Sweep

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZtTGUPQuNWa05yqGNtvT4+o/DIE+QgXKivxzeGwjswawUsy5NoNzstd7c5wuiM1HMg7HdtflJVHWEDFaNY64A==",
+  "dgSpecHash": "zE3ZV81iCqZOoOA/Yokq5TRxx2/Ba/ewddO4/WCRjpMg5VnYv1BbPkpZucQRbj75he+44UIHydMNhvUvvkjt1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mikamora\\Documents\\JS\\advent\\advent.csproj",
+  "projectFilePath": "C:\\Users\\MichaelRichardson\\code\\advent2021\\advent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

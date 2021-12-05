@@ -1,0 +1,16 @@
+C:\Users\MichaelRichardson\code\advent2021\bin\Debug\net5.0\advent.exe
+C:\Users\MichaelRichardson\code\advent2021\bin\Debug\net5.0\advent.deps.json
+C:\Users\MichaelRichardson\code\advent2021\bin\Debug\net5.0\advent.runtimeconfig.json
+C:\Users\MichaelRichardson\code\advent2021\bin\Debug\net5.0\advent.runtimeconfig.dev.json
+C:\Users\MichaelRichardson\code\advent2021\bin\Debug\net5.0\advent.dll
+C:\Users\MichaelRichardson\code\advent2021\bin\Debug\net5.0\ref\advent.dll
+C:\Users\MichaelRichardson\code\advent2021\bin\Debug\net5.0\advent.pdb
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\advent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\advent.AssemblyInfoInputs.cache
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\advent.AssemblyInfo.cs
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\advent.csproj.CoreCompileInputs.cache
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\advent.dll
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\ref\advent.dll
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\advent.pdb
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\advent.genruntimeconfig.cache
+C:\Users\MichaelRichardson\code\advent2021\obj\Debug\net5.0\advent.csproj.AssemblyReference.cache

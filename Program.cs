@@ -1,6 +1,7 @@
 ﻿using System;
 using Sonar;
 using Movement;
+using Rates;
 
 namespace Sub
 {
@@ -8,7 +9,7 @@ namespace Sub
     {
         static void Main(string[] args)
         {
-            Move.Aim();
+            Bits.OxygenScrubber();
         }
     }
 }
